@@ -1,1 +1,0 @@
-# angular-state-management-with-signal
